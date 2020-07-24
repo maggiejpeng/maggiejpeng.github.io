@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "THIS ONE"
 date:   2014-05-24 23:52:38
-image: /hi.jpg
-categories: jekyll update
+image: hi3.gif
+background: '255,0,0'
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

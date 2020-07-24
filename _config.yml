@@ -2,7 +2,3 @@ url: ""
 baseurl: ""
 title: "maggaroni"
 permalink: /:year/:month/:day/:title/
-plugins:
-  - jekyll-regex-replace
-
-theme: jekyll-theme-cayman

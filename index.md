@@ -3,18 +3,19 @@ layout: default
 title: "Home"
 ---
 <style>
-{% for post in site.posts %}
-#{{ post.title | remove: ' ' }}:hover {
-  background: rgba({{ post.background }},.5);
+{% for item in site.work %}
+#{{ item.title | remove: ' ' }}:hover {
+  background: rgba({{ item.background }},.7);
 }
 {% endfor %}
 </style>
 <div class="posts">
-  {% for post in site.posts %}
-  <div class="post" style="background-image: url('/images/{{ post.image }}');">
-  <div class="dummy"></div>
-    <a id="{{ post.title | remove: ' ' }}" href="{{ post.url }}" style="opacity: 1;">
-      <div class="posttitle">{{ post.title }}</div>
+  {% assign sorted_work = site.work | sort:"score" %}
+  {% for item in sorted_work %}
+  <div class="post" style="background-image: url('{{ item.image }}');">
+    <div class="dummy"></div>
+    <a id="{{ item.title | remove: ' ' }}" href="{{ item.url }}" style="opacity: 1;">
+    <div class="posttitle">{{ item.title }}</div>
     </a>
   </div>
   {% endfor %}

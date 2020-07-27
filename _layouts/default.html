@@ -7,18 +7,23 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
-    <div class="navbar">
-      <a href="/" class="name">Jiaman Peng
-        <div class="little">
-          or call me Maggie
+    <div class="main">
+      <div class="navbar">
+        <a href="/" class="name">Jiaman Peng
+          <div class="little">
+            or call me Maggie
+          </div>
+        </a>
+        <div class="right">
+          <a class="navbarlinks" href="/yoda">Yoda?</a>
+          <a class="navbarlinks" href="/about">About Me</a>
+          <a class="navbarlinks" href="/">Work</a>
         </div>
-      </a>
-      <div class="right">
-        <a class="navbarlinks" href="/yoda">Yoda?</a>
-        <a class="navbarlinks" href="/about">About Me</a>
-        <a class="navbarlinks" href="/">Work</a>
       </div>
-    </div>
     {{ content }}
+    </div>
+    <div class="footer">
+      <img src="/images/icons/Cam_3.svg">MAGG PENG<img src="/images/icons/linkedin_2.svg">
+    </div>
   </body>
 </html>

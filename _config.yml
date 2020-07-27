@@ -1,4 +1,7 @@
-url: ""
-baseurl: ""
 title: "maggaroni"
-permalink: /:year/:month/:day/:title/
+
+permalink: /:title
+
+collections:
+  work:
+    output: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "my new job"
+title:  "Patagonia Workwear"
 image: /images/patagonia.png
 score: 99
 background: '14,28,144'
@@ -11,17 +11,17 @@ my role: strategist, media planner
 tools: simmons, commspoint
 
 _Spec work_
-*Objective*
+__Objective__
 Patagonia wants to connect with working audiences that aren’t all existing Patagonia customers.
 
-*Problem*
+__Problem__
 Despite a strong and successful sporting and outdoors apparel line, Patagonia faces the challenge of anonymity in the workwear market. As a new player in an established game, the workwear line faces a new audience, with different lifestyles, motivations and purchasing patterns, who knows little to nothing about them.
 
-*Barriers*
+__Barriers__
 “I don’t feel the line is worth paying a premium for."
 “I don’t know what Patagonia is or that they sell workwear.”
 
-*Findings of the Pastoral Pride segment*
+__Findings: Pastoral Pride segment__
 They work in building maintenance, construction, farming, forestry, fishing, and they work A LOT.
 They and their family depend on their work for financial security.
 36% attended trade schools and trained for years for their job.

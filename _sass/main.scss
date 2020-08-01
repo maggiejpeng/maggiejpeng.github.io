@@ -6,11 +6,11 @@ html, body {
 }
 
 body {
+  width: 75%;
   display: flex;
   flex-direction: column;
   background-color: #FFF7F0;
   margin: auto;
-  width: 65%;
   font-family: $bodyFont;
 }
 
@@ -57,8 +57,6 @@ body {
 }
 
 .navbar {
-  margin-right: 15px;
-  margin-left: 15px;
   background-color: white;
   font-family: $titleFont;
   border: 3px solid black;
@@ -67,38 +65,44 @@ body {
   overflow: hidden;
   margin-top: 20px;
   margin-bottom: 40px;
-  font-size: 20px;
+  font-size: 18px;
   justify-content: space-between;
   .right {
     margin: 10px;
     display: flex;
     align-items: center;
     a {
-      -webkit-text-stroke: 1px black;
+      text-decoration: none;
       color: black;
       padding: 6px;
-      text-decoration: none;
-      background: linear-gradient(90deg,lightblue 0%,lightblue 100%);
-      background-size: 0%;
-      background-position: 0;
-      background-repeat: no-repeat;
-      -webkit-background-clip: text;
-      transition: background .4s ease, color .2s ease;
+      transition: color .2s ease;
+      // font-weight: 600;
       &:hover {
-      color: transparent;
-        background-size: 100%;
-        //background-color: lightblue;
+        text-decoration: underline;
+        color: lightblue;
       }
+
+      //background: linear-gradient(90deg,lightblue 0%,lightblue 100%);
+      //-webkit-text-stroke: 1px black;
+      //background-size: 0%;
+      //background-position: 0;
+      //background-repeat: no-repeat;
+      //-webkit-background-clip: text;
+      //transition: background .6s ease, color .1s ease;
+      //&:hover {
+      //color: transparent;
+      //  background-size: 100%;
+      //  //background-color: lightblue;
+      //}
     }
   }
   .name {
     text-decoration: none;
     float: left;
-    -webkit-text-stroke: 1px black;
     color: black;
     margin: 10px 20px 10px 20px;
-    font-size: 33px;
-
+    font-weight: 700;
+    font-size: 32px;
     .little {
       font-size: 12px;
     }

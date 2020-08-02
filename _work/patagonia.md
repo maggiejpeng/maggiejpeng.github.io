@@ -11,14 +11,14 @@ my role: strategist, media planner
 tools: simmons, commspoint
 
 _Spec work_
-__Objective__
+__Objective__  
 Patagonia wants to connect with working audiences that aren’t all existing Patagonia customers.
 
-__Problem__
+__Problem__  
 Despite a strong and successful sporting and outdoors apparel line, Patagonia faces the challenge of anonymity in the workwear market. As a new player in an established game, the workwear line faces a new audience, with different lifestyles, motivations and purchasing patterns, who knows little to nothing about them.
 
-__Barriers__
-“I don’t feel the line is worth paying a premium for."
+__Barriers__  
+“I don’t feel the line is worth paying a premium for."  
 “I don’t know what Patagonia is or that they sell workwear.”
 
 __Findings: Pastoral Pride segment__

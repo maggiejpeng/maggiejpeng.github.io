@@ -28,7 +28,8 @@ Their family depend on their work for financial security.
 36% attended trade schools and trained for years for their job.
 Their hobbies at home are closely aligned with things they do at work.
 
-![image](/images/patagonia.png){: style="float: left"}
+
+<img align="left" width="auto" height="200" src="/images/patagonia.png">
 
 For 
 The Everyday Warriors, 

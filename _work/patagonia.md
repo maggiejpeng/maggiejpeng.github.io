@@ -7,31 +7,45 @@ background: '14,28,144'
 ---
 
 # Patagonia makes workwear?
-my role: strategist, media planner
-tools: simmons, commspoint
+_Spec work_  
+my role: strategist, media planner  
+tools: simmons, commspoint, desktop research
 
-_Spec work_
+
 __Objective__  
 Patagonia wants to connect with working audiences that aren’t all existing Patagonia customers.
 
 __Problem__  
-Despite a strong and successful sporting and outdoors apparel line, Patagonia faces the challenge of anonymity in the workwear market. As a new player in an established game, the workwear line faces a new audience, with different lifestyles, motivations and purchasing patterns, who knows little to nothing about them.
+Despite a strong and successful sporting and outdoors apparel line, Patagonia faces the challenge of anonymity in the workwear market. As a new player in an established game, the workwear line needs to appeal to a new audience who knows little to nothing about the brand while differentiating itself from household names like Dickies and Carhartt.
 
 __Barriers__  
 “I don’t feel the line is worth paying a premium for."  
 “I don’t know what Patagonia is or that they sell workwear.”
 
-__Findings: Pastoral Pride segment__
-They work in building maintenance, construction, farming, forestry, fishing, and they work A LOT.
-They and their family depend on their work for financial security.
+__Findings on Pastoral Pride segment__  
+They work in building maintenance, construction, farming, forestry, fishing, and they work *a lot*.
+Their family depend on their work for financial security.
 36% attended trade schools and trained for years for their job.
 Their hobbies at home are closely aligned with things they do at work.
+
+![image](/images/patagonia.png){: style="float: left"}
 
 For 
 The Everyday Warriors, 
 workwear isn’t just clothing for work, it’s clothing for life.
 
 Because of their busy schedule and also due to their unique passions for their occupations, they don’t seem to separate between work and home. They wear what is most convenient and most versatile. Patagonia needs to be something they let not just into their work day, but a brand they invite into theirr homes and all aspects of their lives.
+
+__Strategy__  
+We can sell more workwear to *Everyday Warriors* by not positioning it as just workwear. 
+Patagonia’s workwear has the most cutting edge technology, making it versatile for home and work —— Jeans that are guaranteed for life, take no time to break in, and are also 15 times stronger than steel is more than perfect for the work site. And those same jeans can be worn for relaxing.
+
+By reaching our target in many different areas of their life through different media such as radio, TV and Facebook, we want our messaging to mirror the versatility of the product. 
+Awareness is our biggest barrier, but also has the potential to be our biggest strength.
+
+__Positioning__  
+Patagonia's workwear is the most comfortable, durable and versatile work clothes on the market, because what our consumers want is something they can wear, at work, at home and for life.
+
 
 
 - high reach channels 

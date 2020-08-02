@@ -30,7 +30,8 @@ Their hobbies at home are closely aligned with things they do at work.
 
 
 <img align="left" width="auto" height="200" src="/images/patagonia.png">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@user941061508/video/6854781032428752133" data-video-id="6854781032428752133" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@user941061508" href="https://www.tiktok.com/@user941061508">@user941061508</a> <p>You’ve seen me roast dishes, but have you seen me Duet with them?? Use <a title="RamsayReacts" target="_blank" href="https://www.tiktok.com/tag/RamsayReacts">##RamsayReacts</a> to see my reaction to your dish!</p> <a target="_blank" title="♬ original sound - user941061508" href="https://www.tiktok.com/music/original-sound-6854781109314669317">♬ original sound - user941061508</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@user941061508/video/6854781032428752133" data-video-id="6854781032428752133" style="max-width: 350px;min-width: 325px;" > <section> <a target="_blank" title="@user941061508" href="https://www.tiktok.com/@user941061508">@user941061508</a> <p>You’ve seen me roast dishes, but have you seen me Duet with them?? Use <a title="RamsayReacts" target="_blank" href="https://www.tiktok.com/tag/RamsayReacts">##RamsayReacts</a> to see my reaction to your dish!</p> <a target="_blank" title="♬ original sound - user941061508" href="https://www.tiktok.com/music/original-sound-6854781109314669317">♬ original sound - user941061508</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 For 
 The Everyday Warriors, 
 workwear isn’t just clothing for work, it’s clothing for life.

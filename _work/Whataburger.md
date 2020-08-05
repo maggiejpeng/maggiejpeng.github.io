@@ -36,12 +36,13 @@ Whataburger will help everyone express and celebrate their personality by allowi
 
 ## Nobody eats the same thing, and at Whataburger, nobody has to.
 
+<div style="display:flex;">
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@icsolano/video/6855364412774075653" data-video-id="6855364412774075653" style="max-width: 33%;min-width: 325px;" > <section> <a target="_blank" title="@icsolano" href="https://www.tiktok.com/@icsolano">@icsolano</a> <p><a title="mywhataburger" target="_blank" href="https://www.tiktok.com/tag/mywhataburger">##mywhataburger</a></p> <a target="_blank" title="♬ original sound - icsolano" href="https://www.tiktok.com/music/original-sound-6855364408760224517">♬ original sound - icsolano</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@joannarowell0/video/6855386208038702342" data-video-id="6855386208038702342" style="max-width: 33%;min-width: 325px;" > <section> <a target="_blank" title="@joannarowell0" href="https://www.tiktok.com/@joannarowell0">@joannarowell0</a> <p><a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen">##greenscreen</a></p> <a target="_blank" title="♬ original sound - joannarowell0" href="https://www.tiktok.com/music/original-sound-6855386210777451270">♬ original sound - joannarowell0</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@joannarowell0/video/6855396558230260997" data-video-id="6855396558230260997" style="max-width: 33%;min-width: 325px;" > <section> <a target="_blank" title="@joannarowell0" href="https://www.tiktok.com/@joannarowell0">@joannarowell0</a> <p><a title="duet" target="_blank" href="https://www.tiktok.com/tag/duet">##duet</a> with @mikid02 <a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen">##greenscreen</a></p> <a target="_blank" title="♬ original sound - mikid02" href="https://www.tiktok.com/music/original-sound-6855388026235898629">♬ original sound - mikid02</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
+</div>
 ##### Now, you own that burger, it is <u>your</u> burger and it's the best goddamn burger in the world (even if it has pickles and mayo on it... jk not jk).
 
 

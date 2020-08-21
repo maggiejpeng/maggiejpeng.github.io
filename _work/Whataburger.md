@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Whataburger"
-image: /images/whataburger-tiktok.png
+image: /images/whataburger.jpg
 score: 5
 background: '0,0,0'
 ---

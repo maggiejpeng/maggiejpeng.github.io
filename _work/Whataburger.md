@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Whataburger"
-image: /images/whataburger.jpg
+image: /images/whataburgerlogo.png
 score: 5
 background: '0,0,0'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Respond2Racism"
-image: /images/respond2racism.png
+image: /images/respond2racism.jpg
 score: 7
 background: '14,28,144'
 ---

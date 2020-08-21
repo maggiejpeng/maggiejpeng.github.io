@@ -2,14 +2,30 @@
 layout: default
 title: About
 ---
-# this is the TITLE
 
-* this is how you make an unordered list
-* here's another entry!
+<style>
+#picture { 
+  max-width: 280px;
+  width:50%;
+  margin: 10px 25px 10px 25px;
+  background-image: url('/images/JP3.JPG');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#picture:hover {
+  background-image: url('/images/JP2.jpg');
+}
+</style>
+<div style="display:flex; width:100%; height: 40%; min-height: 400px;">
+  <div id="picture">
+  </div>
 
-1. this is another list
-1. you can keep using the same number over and over, but it will generate more!
+  <div markdown="1">
+# about the maggie
+  * i work hard
+  * other stuff too
+  * hire me and pay me a lot
 
-hihi this is maggie!
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  </div>
+</div>

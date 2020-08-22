@@ -5,8 +5,9 @@ title: About
 
 <style>
 #picture { 
-  max-width: 280px;
-  width:50%;
+  min-height: 550px;
+  max-width: 450px;
+  width:40%;
   margin: 10px 25px 10px 25px;
   background-image: url('/images/JP3.JPG');
   background-position: center;
@@ -17,7 +18,7 @@ title: About
   background-image: url('/images/JP2.jpg');
 }
 </style>
-<div style="display:flex; width:100%; height: 40%; min-height: 400px;">
+<div style="display:flex; width:100%; height: 40%; ">
   <div id="picture">
   </div>
 
